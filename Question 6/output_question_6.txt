@@ -1,0 +1,9 @@
+2 2 Outside
+3 3 Inside
+2 2 Outside
+5 5 Inside
+9 9 Outside
+14 14 Inside
+20 20 Inside
+18 18 Outside
+11 11 Outside
